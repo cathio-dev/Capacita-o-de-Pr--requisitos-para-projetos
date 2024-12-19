@@ -1,3 +1,11 @@
 body {
     font-family: Arial, sans-serif; /*fonte padrão*/
 }
+
+/* Estilo para a seção de descrição */
+#descricao {
+    padding: 20px;
+    background-color: #5257ff; /* Cor de fundo leve para destaque */
+    border-radius: 30px;
+    margin-bottom: 50px;
+}
