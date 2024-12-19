@@ -9,3 +9,7 @@ body {
     border-radius: 30px;
     margin-bottom: 50px;
 }
+
+#descricao h2 {
+    color: #000000;
+}
